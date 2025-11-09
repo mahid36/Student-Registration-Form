@@ -14,7 +14,7 @@
     .field-box { background:#efefef; border:1px solid #e1e1e1; padding:.4rem; border-radius:3px; }
     .form-control, .form-select { font-size:14px; padding:.3rem .5rem; }
     .row.mb-3 { margin-bottom:10px; }
-    .submit-btn { width: 200px; } /* বোতামের প্রস্থ বাড়ানো */
+    .submit-btn { width: 200px; }
   </style>
 </head>
 <body>
